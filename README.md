@@ -1,4 +1,4 @@
-# Machine_learning_for_intelligent_vehicles
+# Intelligent accident detection and prevention in IoVs
 
 The following project given two models accident avoidence and accident severity detection for ambulance services. Classification models and its following accuracy is given.
 
